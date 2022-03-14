@@ -44,7 +44,7 @@ ___
 | [![編隊28](media/png/form28thumb.png)](28.md) | [![編隊29](media/png/form29thumb.png)](29.md) | [![編隊30](media/png/form30thumb.png)](30.md) | [![編隊31](media/png/form31thumb.png)](31.md) |
 
 ___
-以下の4編隊は警告直後に挿入された場合のみ登場する。
+以下4編隊は警告直後に挿入された場合のみ登場する。
 
 | 32 | 33 | 34 | 35 |  
 | ---  |--- | --- | --- | 
