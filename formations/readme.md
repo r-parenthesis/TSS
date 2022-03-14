@@ -10,6 +10,7 @@
 | ---  |--- | --- | --- | 
 | [![編隊4](media/png/form04thumb.png)](04.md) | [![編隊5](media/png/form05thumb.png)](05.md) | [![編隊6](media/png/form06thumb.png)](06.md) | [![編隊7](media/png/form07thumb.png)](07.md) |
 
+以上8編隊は、ラウンド開始から(泡編隊の挿入を除いて)8編隊目までにのみ登場する。
 ___
 
 | 8 | 9 | 10 | 11 |  
