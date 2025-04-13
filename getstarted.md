@@ -8,7 +8,7 @@
 ティンクルスタースプライツは数多くの機種に移植されている。PC向けの各種移植版およびアケアカNEOGEO版は現行機種で動作し、入手も容易であるため、これらの中から選ぶことを勧める。
 ### PC
 PC版は大きく分けて**Steam**系列、**アケアカNEOGEO for Windows**そして**Humble Bundle**の三系統がある。  
-Steam系列はSteam版のほか、GOG版、DMM版、AmazonのプライムGaming版などを含む。**Steam版はオンライン対戦可能。**2P側スタートが不可能など、動作はあまり良くないため、どうしても公式に用意されたオンライン対戦機能を利用したい場合を除いておすすめしない。  
+Steam系列はSteam版のほか、GOG版、DMM版、AmazonのプライムGaming版などを含む。**Steam版はオンライン対戦可能。** 2P側スタートが不可能など、動作はあまり良くないため、どうしても公式に用意されたオンライン対戦機能を利用したい場合を除いておすすめしない。  
 アケアカNEOGEO for Windows版は、Microsoft Storeから入手可能。中身はゲーム機向けアケアカNEOGEO版と大差ない。  
 [Humble Bundle](https://www.humblebundle.com/store/twinkle-star-sprites) 版は、同名の販売サイトから入手できる移植版である。サイト上で検索する際は英語版タイトル(Twinkle Star Sprites)を入力しないと見つからないことに注意が必要。もともと25周年バンドルとして売られていたもののばら売りであり、[合法であることが公式にアナウンスされた](https://automaton-media.com/articles/newsjp/dotemu-released-official-message-about-neogeo-bundle-using-rom-and-emulator/)移植版である。**合法なROMファイルがそのままの形で入っている**ため、西暦2024年9月時点のオンライン対戦コミュニティでは、まずHumble Bundle版を購入し、インストールフォルダからROMを取り出して[FightCade](https://www.fightcade.com/)で利用し、対戦を行っている。備え付けのエミュレータは2Pプレイ不可などの制約が大きいため、  **まずHumble Bundle版を購入し別のエミュレータにROMを入れてプレイする**のを推奨する。  
 ### ゲーム機(現行)およびスマートフォン(iPad含む)
